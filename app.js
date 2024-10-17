@@ -4,12 +4,16 @@ console.log("Hello Class")
 // My Homework 
 
 
+function firstname(){
+    console.log("Hello")
+};
+
+firstname();
 
 
 
 
-
-
+// 5 
 
 
 
